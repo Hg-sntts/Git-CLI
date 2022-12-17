@@ -1,0 +1,1 @@
+# Usando git usando apenas a CLI.
