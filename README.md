@@ -1,1 +1,1 @@
-# Usando git usando apenas a CLI..
+# Usando git usando apenas a CLI.
